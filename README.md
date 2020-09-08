@@ -3,7 +3,7 @@
 ## 👇 WATCH THIS FIRST 👇
 ## https://tinyurl.com/customizeReactPortfolio
 
-![ReactJS Resume Website Template](resume-screenshot.png?raw=true "ReactJS Resume Website Template")
+![ReactJS Resume Website Template](new-resume-screenshot.png?raw=true "ReactJS Resume Website Template")
 
 ## <a href="https://peaceful-leavitt-2a997e.netlify.app">LIVE DEMO</a>
 
@@ -31,7 +31,8 @@ Here is the link to download zip 👉
 
 #### All Credits Goes to Tim Baker <a href='https://github.com/tbakerx/react-resume-template'>Original Repo</a>
 
-
+Clever Programmer Team
+<a href="https://http://cleverprogrammer.com/">Clever Programmer</a>
 
 HTML Design Template
 <a href="https://www.styleshout.com/free-templates/ceevee/">Ceevee Template by Styleshout</a>
